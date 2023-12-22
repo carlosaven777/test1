@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Galatians 1</title>
+<meta name="apple-mobile-web-app-title" content="Galatians 1">
+<meta name="generator" content="In5 v3.8.9">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=1080,minimum-scale=.2">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write('<script src="assets/js/jquery.min.js"><\/script>')</script>
+<script type="text/javascript" src="assets/js/vmouse.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.scrollTo.min.js"></script>
+<script type="text/javascript" src="assets/js/in5.config.js"></script>
+<link rel="stylesheet" href="assets/css/pages.css" media="all">
+<style media="all and (-ms-high-contrast:none)">*::-ms-backdrop,.svg-img{width:100%;}</style>
+</head>
+<body>
+<!--[if lt IE 10]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+<![endif]-->
+<div id="loadIndicator"><img src="assets/images/loading.gif" alt="loading..."/><span>&nbsp;</span></div>
+<div id="container-wrap">
+<div id="container">
+<ul class="pages paper-vertical" id="slider">
+  <li class="page" data-name="1">
+    <div class="page-scale-wrap mq-none mq-default" role="region" data-layout-name="undefined" data-ani-load="go({target:this},[{n:1,id:770,act:'play'},{n:1,id:412,act:'play'}], 'pageload');" style="width:1080px;height:1920px;">
+      <img src="assets/images/blank.gif" alt="Rectangle" style="left:36px !important;top:36px !important;" id="item242" class="pageItem " data-src="assets/images/item_242.png"/>
+      <div alt="Group" style="left:-258px !important;top:-1209px !important;" id="item771" class="pageItem group ">
+        <div id="item279" alt="Rectangle" class="pageItem ">&nbsp;</div>
+        <img src="assets/images/blank.gif" alt="Oval" id="item425" class="pageItem " data-src="assets/images/item_425.png"/>
+      </div>
+      <div id="item717" alt="Rectangle" class="pageItem ">&nbsp;</div>
+      <div data-ani="fadein-770 1s linear 1" data-id="770" id="item770" data-hidestart="1" class="pageItem group hidden" alt="Title" style="left:126px !important;top:210px !important;width: 858px !important;height:324px !important;">
+        <img src="assets/images/blank.gif" alt="1" class="pageItem hd" style="left:663px !important;" id="item370" data-src="assets/images/item_370.png"/>
+        <img src="assets/images/blank.gif" alt="GALATIANS " class="pageItem hd" style="top:102px !important;" id="item326" data-src="assets/images/item_326.png"/>
+      </div>
+      <img src="assets/images/blank.gif" data-ani="fadein-412 1s ease-in 1" data-id="412" id="item412" data-hidestart="1" class="pageItem hidden" alt="Verse 1" style="width:906px !important;left:87px !important;top:987px !important;" data-src="assets/images/item_412.png"/>
+      <img src="assets/images/blank.gif" alt="GraphicLine" style="height: 5px !important;left:34px !important;top:3px !important;" id="item572" class="pageItem " data-src="assets/images/item_572.png"/>
+    </div>
+  </li>
+  <li class="page" data-name="2">
+    <div class="page-scale-wrap mq-none mq-default" role="region" data-layout-name="undefined" style="width:1080px;height:1920px;">
+      <img src="assets/images/blank.gif" alt="Rectangle" style="left:36px !important;top:36px !important;" id="item457" class="pageItem " data-src="assets/images/item_457.png"/>
+      <img src="assets/images/blank.gif" alt="Rectangle" style="left:-214px !important;top:225px !important;" id="item702" class="pageItem " data-src="assets/images/item_702.png"/>
+      <img src="assets/images/blank.gif" alt="Rectangle" style="left:-216px !important;top:261px !important;" id="item488" class="pageItem " data-src="assets/images/item_488.png"/>
+      <div id="item720" class="pageItem scroll-vert-hideScroll scroll-vert_hideScroll scroll-vert hidescroll" alt="Rectangle">
+        <img src="assets/images/blank.gif" alt="In reading the Bible, the New Testament teaching of God’s economy is the overarching theme, especially in Paul’s writ..." style="width:797px !important;left:3px !important;top:-51px !important;" id="item744" class="pageItem " data-src="assets/images/item_744.png"/>
+      </div>
+      <img src="assets/images/blank.gif" alt="DISCOVER" class="pageItem hd" style="left:400px !important;top:90px !important;" id="item556" data-src="assets/images/item_556.png"/>
+    </div>
+  </li>
+</ul>
+<div id="prefooter" style="float:left;height:1px;">&nbsp;</div>
+</div>
+<footer id="in5footer"><a href="http://ajarproductions.com/pages/products/in5/?ref=footer" target="_blank" >Built with in5</a>.</footer>
+</div>
+</body>
+</html>
